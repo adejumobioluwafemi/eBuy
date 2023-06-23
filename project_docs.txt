@@ -1,0 +1,11 @@
+Virtual environment path
+------------------------
+
+C:\Users\ADEJUMOBI OLUWAFEMI\.virtualenvs\eBuy-rNsI0v6J
+
+---------
+in the ebuy folder
+
+---
+
+To activate this project's virtualenv, run pipenv shell
